@@ -1,4 +1,4 @@
-# Gaug.es API
+# Gauges API
 
 *Warning: stand back, we're hacking shit!*
 
@@ -17,3 +17,5 @@ Sign in to Gauges, fire up a javascript console and type:
 Throw the user ID in the config.yml and run the example:
 
     bundle exec ruby gauges_api_test.rb
+
+You should see all the page hits printed to the console in real-time.

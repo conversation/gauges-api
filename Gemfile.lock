@@ -1,0 +1,16 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    addressable (2.2.6)
+    eventmachine (0.12.10)
+    libwebsocket (0.1.0)
+    pusher-client (0.2.1)
+      eventmachine (~> 0.12.10)
+      libwebsocket (~> 0.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  addressable
+  pusher-client

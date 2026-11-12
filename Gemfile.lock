@@ -1,9 +1,11 @@
 GEM
   remote: http://rubygems.org/
   specs:
-    addressable (2.2.6)
+    addressable (2.9.1)
+      public_suffix (>= 2.0.2, < 8.0)
     eventmachine (0.12.10)
     libwebsocket (0.1.0)
+    public_suffix (7.0.5)
     pusher-client (0.2.1)
       eventmachine (~> 0.12.10)
       libwebsocket (~> 0.1.0)
